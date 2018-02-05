@@ -7,4 +7,4 @@ import {render} from 'react-dom'
 const wrapper = document.getElementsByClassName('games__layout')[0]
 console.log(wrapper)
 
-// render(<App/>,wrapper)
+render(<App/>,wrapper)
